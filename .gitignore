@@ -8,6 +8,7 @@ Makefile.in
 /ylwrap
 .deps/
 .dirstamp
+task(count table)(#oo1)
 
 # http://www.gnu.org/software/autoconf
 
@@ -40,7 +41,7 @@ autom4te.cache
 /texinfo.tex
 
 # http://www.gnu.org/software/m4/
-
+	input SQL conncet table🦅
 m4/libtool.m4
 m4/ltoptions.m4
 m4/ltsugar.m4
